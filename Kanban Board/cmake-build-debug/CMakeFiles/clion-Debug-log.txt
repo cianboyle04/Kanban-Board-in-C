@@ -1,0 +1,4 @@
+/Users/cianboyle/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/cianboyle/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/cianboyle/Desktop/College/Software Engineering Project/Assignment 3 - Kanban-Style Board/ai-assignment-3" -B "/Users/cianboyle/Desktop/College/Software Engineering Project/Assignment 3 - Kanban-Style Board/ai-assignment-3/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/cianboyle/Desktop/College/Software Engineering Project/Assignment 3 - Kanban-Style Board/ai-assignment-3/cmake-build-debug
